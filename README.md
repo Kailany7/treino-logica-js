@@ -25,13 +25,5 @@ Cada arquivo segue o padrão:
 - Código da solução
 - Um `console.log` testando com o exemplo do enunciado
 
-## Padrão de commits
-
-\`\`\`
-exercicio-01: descricao curta (conceito usado)
-\`\`\`
-
-Exemplo: `exercicio-02: somar array (for)`
-
 ## Lista de exercícios
 ...
