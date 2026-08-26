@@ -43,10 +43,10 @@ Exemplo: `exercicio-02: somar array (for)`
 - [x] 5 — Encontrar o menor número de um array
 - [x] 6 — Verificar se um número existe em um array
 - [x] 7 — Retornar apenas números maiores que 10
-- [ ] 8 — Contar quantas vezes uma letra aparece em uma palavra
-- [ ] 9 — Inverter uma string
-- [ ] 10 — Encontrar o primeiro número maior que um valor determinado
-- [ ] 11 — Filtrar array de objetos por uma propriedade
+- [x] 8 — Contar quantas vezes uma letra aparece em uma palavra
+- [x] 9 — Inverter uma string
+- [x] 10 — Encontrar o primeiro número maior que um valor determinado
+- [x] 11 — Filtrar array de objetos por uma propriedade
 
 ### Questões complementares (lacunas)
 - [ ] 12 — Dois radares: par de números que somam um valor alvo
